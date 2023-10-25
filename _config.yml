@@ -42,7 +42,7 @@ features                                  :
 
   - title                                 : Global Live Results
     description                           : See how you stack up against everyone else from around the world - did you beat them?
-    fontawesome_icon_name                 : chart-column
+    fontawesome_icon_name                 : circle-down
 
   - title                                 : Share Your Game!
     description                           : Show your friends how you did! Use the in-game share buttons to either share your score (with spoilers) or without.
