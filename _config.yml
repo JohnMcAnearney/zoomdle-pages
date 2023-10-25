@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Share Your Game!
     description                           : Show your friends how you did! Use the in-game share buttons to either share your score (with spoilers) or without.
-    fontawesome_icon_name                 : share-from-square
+    fontawesome_icon_name                 : mobile
 
 
 
