@@ -20,8 +20,10 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : John McAnearney & Rebecca McArthur                                
-your_link                                 : https://johnmcanearney.github.io/                     
+your_name                                 : John McAnearney
+additional_name                           : Rebecca McArthur
+your_link                                 : https://johnmcanearney.github.io/
+additional_link                           : https://becks1875.github.io/
 your_city                                 : London                                
 email_address                             : johnmcanearney1@gmail.com
 facebook_username                         :                                           
